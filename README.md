@@ -88,15 +88,3 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 ### Executive page
 ![EXECUTIVE](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/9128acce-1eb4-4c5a-8e9d-8021d7835b03)
 
-
-## Key Achievements
-   &nbsp;&nbsp;&nbsp;&nbsp;**1. Customized Dashboard:** Developed a multi-functional Power BI dashboard to specifically meet AtliQ Hardware's needs, allowing them to gain insights into their various departments. 
-   
-   &nbsp;&nbsp;&nbsp;&nbsp;**2. Data Integration:** Data was sourced from disparate locations, including Excel/CSV files and a MySQL database, and seamlessly integrated into Power BI for comprehensive analysis.
-
-   &nbsp;&nbsp;&nbsp;&nbsp;**3. Data Model and Visualizations:** A robust data model was developed within Power BI, enabling the creation of visually appealing and interactive visualizations to represent key performance indicators (KPIs).
-
-   &nbsp;&nbsp;&nbsp;&nbsp;**4. Performance Optimization:** The dashboard's performance was significantly improved using DAX Studio, resulting in a **5%** increase in report efficiency.
-
-   &nbsp;&nbsp;&nbsp;&nbsp;**5. Data-Driven Decisions:** AtliQ Hardware can now analyze trends across different departments, empowering them to make data-driven decisions.
-
