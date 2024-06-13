@@ -69,7 +69,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 ![Home](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/b08bf485-ba95-47c2-a72c-15f0ae9cad14)
 
 ### Finance page
-![sales](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/04134c67-d40c-49dd-8b65-6ec4cf5b1779)
+![Finance](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/10cc34a8-8ca1-4d41-8fff-7b0da119f03e)
 
 ### Sales Page
 ![SALESS](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/e97daaa8-6e32-4c91-aeb8-753dd5470887)
