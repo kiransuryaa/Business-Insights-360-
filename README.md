@@ -65,6 +65,25 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 ## Data Model
 
 ## Dashboard Design
+### Home Page
+![Home](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/b08bf485-ba95-47c2-a72c-15f0ae9cad14)
+
+### Finance page
+![sales](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/04134c67-d40c-49dd-8b65-6ec4cf5b1779)
+
+### Sales Page
+![SALESS](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/e97daaa8-6e32-4c91-aeb8-753dd5470887)
+
+### Marketing page
+![MARKETING](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/eadc0f97-26de-46fa-8007-6ee780419f88)
+
+### Supply Chain page
+![SUPPLY](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/235dcc1f-0642-488c-9e03-670128adb527)
+
+
+### Executive page
+![EXECUTIVE](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/9128acce-1eb4-4c5a-8e9d-8021d7835b03)
+
 
 ## Key Achievements
    &nbsp;&nbsp;&nbsp;&nbsp;**1. Customized Dashboard:** Developed a multi-functional Power BI dashboard to specifically meet AtliQ Hardware's needs, allowing them to gain insights into their various departments. 
