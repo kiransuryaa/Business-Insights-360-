@@ -10,7 +10,7 @@ AtliQ hardware is a company which has grown vastly in the recent years, and open
 
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
-[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDlkYmZlZTctNTVhMy00Y2JjLWE2MzUtNzliZWM4ZGZiMjc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3825dd718e9c067e7706)
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDlkYmZlZTctNTVhMy00Y2JjLWE2MzUtNzliZWM4ZGZiMjc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -86,5 +86,6 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 
 ### Executive page
-![EXECUTIVE](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/9128acce-1eb4-4c5a-8e9d-8021d7835b03)
+![Executive](https://github.com/kiransuryaa/Business-Insights-360-/assets/141052509/6fc05b56-9d37-4eeb-8452-4fc99c7f86b4)
+
 
